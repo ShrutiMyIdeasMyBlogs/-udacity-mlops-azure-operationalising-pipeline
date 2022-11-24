@@ -18,7 +18,7 @@ Once the model is trained,the model has been deployed in the form of rest API so
   b)Experiment Run and Completition
   The below image shows the automl-experiment creation,the later image depicts the completition of the experiment
   ![Experiment_run](https://user-images.githubusercontent.com/16042155/203637601-97e6a7d7-9318-482b-b973-89ad9b61b98f.png)
-  ![image](https://user-images.githubusercontent.com/16042155/203715354-0966f01f-55a0-40ce-a75f-d7f4a70ac2b8.png)
+  ![image](https://user-images.githubusercontent.com/16042155/203715354-0966f01f-55a0-40ce-a75f-d7f4a70ac2b8.png)  
   c)Best Model Selection
   The model with the best desired metric has been selected for the deployment
   ![image](https://user-images.githubusercontent.com/16042155/203716309-8f7ab323-f48b-4439-86da-6bd038b021a3.png)
@@ -36,9 +36,13 @@ benchmarking.sh output
 application insight is true
 ![image](https://user-images.githubusercontent.com/16042155/203716807-9d5ad737-665d-4e0c-a0a1-2b83e0d396bf.png)
 
+The part of the project also involved the automl pipeline creation using sdk,the pipeline has been created and published successfully.The images for the same are as follows:
+
 
 ## Screen Recording
 The screencast is available at https://youtu.be/dQfkEdrFmdM
+
+
 
 ## Future Work
 Following points can be implemented for future work.
