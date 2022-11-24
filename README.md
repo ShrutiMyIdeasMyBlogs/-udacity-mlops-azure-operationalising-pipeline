@@ -33,9 +33,9 @@ The screencast is available at https://youtu.be/dQfkEdrFmdM
 
 ## Future Work
 Following points can be implemented for future work.
-The project can include the hyperparameter tunning in python.
-Feature engineering can also be done in the project.
-It can be further elaborated to the full stack development,where the model rest end point are consumed from the UI.
-Test a local container with a downloaded model
+1. The project can include the hyperparameter tunning in python.
+2. Feature engineering can also be done in the project.
+3. It can be further elaborated to the full stack development,where the model rest end point are consumed from the UI.
+4. Test a local container with a downloaded model
 
 
