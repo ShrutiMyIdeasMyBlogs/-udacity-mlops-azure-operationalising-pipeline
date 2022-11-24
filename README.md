@@ -37,6 +37,10 @@ application insight is true
 ![image](https://user-images.githubusercontent.com/16042155/203716807-9d5ad737-665d-4e0c-a0a1-2b83e0d396bf.png)
 
 The part of the project also involved the automl pipeline creation using sdk,the pipeline has been created and published successfully.The images for the same are as follows:
+Pipeline creation
+![image](https://user-images.githubusercontent.com/16042155/203828700-7146fda3-823f-4c65-9427-19519f976806.png)
+Pipeline Completition
+![image](https://user-images.githubusercontent.com/16042155/203829058-1939f6b6-cba5-4062-a727-9df5a41b8206.png)
 
 
 ## Screen Recording
